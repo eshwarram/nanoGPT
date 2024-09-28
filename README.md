@@ -1,4 +1,9 @@
 
+# Update
+
+Playin around
+
+
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
